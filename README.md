@@ -1,5 +1,5 @@
 👋 Hello, I'm Rodrigo Delaunay
-🌊 Navy Officer | 💻 Avid Programmer | 🎓 Computer Science Student
+🌊 Portuguese Navy Officer | 💻 Avid Programmer | 🎓 Computer Science Student
 
 Welcome to my GitHub! I'm Rodrigo Delaunay, a 27-year-old Navy Officer who is passionate about technology and programming. I'm currently pursuing my Bachelor's Degree in Computer Science at ISCTE - University of Lisbon.
 🌟 A bit about me:
@@ -24,4 +24,4 @@ Welcome to my GitHub! I'm Rodrigo Delaunay, a 27-year-old Navy Officer who is pa
 📫 Let's connect!
 
     Feel free to explore my repositories, and don’t hesitate to reach out!
-    You can reach me at: rodrigo.delaunay@iscte.pt
+    You can reach me at: rodlxl2011@gmail.com
