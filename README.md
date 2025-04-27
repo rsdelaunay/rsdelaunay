@@ -1,4 +1,4 @@
-👋 Rodrigo Delaunay
+RSDELAUNAY
 
 🌊 Portuguese Navy Officer | 💻 Avid Developer | 🎓 Computer Science Student
 
