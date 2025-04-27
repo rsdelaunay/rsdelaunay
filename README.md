@@ -1,5 +1,5 @@
-👋 Hello, I'm Rodrigo Delaunay
-🌊 Portuguese Navy Officer | 💻 Avid Programmer | 🎓 Computer Science Student
+👋 Rodrigo Delaunay
+🌊 Portuguese Navy Officer | 💻 Avid Developer | 🎓 Computer Science Student
 
 Welcome to my GitHub! I'm Rodrigo Delaunay, a 27-year-old Navy Officer who is passionate about technology and programming. I'm currently pursuing my Bachelor's Degree in Computer Science at ISCTE - University of Lisbon.
 🌟 A bit about me:
@@ -10,16 +10,10 @@ Welcome to my GitHub! I'm Rodrigo Delaunay, a 27-year-old Navy Officer who is pa
 
 💻 Technologies & Skills:
 
-    Languages: Python, JavaScript, HTML, CSS
-    Frameworks: Flask, Django
-    Databases: SQL, PostgreSQL
-    Tools: Git, Docker
+    Languages: Python, JavaScript, HTML, CSS, TS.
+    Frameworks: React (JS Library)
+    Tools: Git
     Other Interests: Algorithms, APIs, Cybersecurity
-
-🌱 What I’m working on:
-
-    Completing the CS50 Web Programming course to solidify my skills in web development.
-    Building a portfolio of projects that blend my interests in technology and problem-solving.
 
 📫 Let's connect!
 
