@@ -1,23 +1,18 @@
-RSDELAUNAY
+Rodrigo Delaunay
 
-🌊 Portuguese Navy Officer | 💻 Avid Developer | 🎓 Computer Science Student
+BSc Computer Engineering (ISCTE-IUL) · Project manager, EU-funded technology programmes · PMP candidate
 
-Welcome to my GitHub! I'm Rodrigo Delaunay, a 29-year-old Navy Officer who is passionate about technology and programming. I'm currently pursuing my Bachelor's Degree in Computer Science at ISCTE - University of Lisbon.
+I manage the delivery and budget of EU co-financed technology and infrastructure programmes — Horizon 2020, Internal Security Fund, Recovery and Resilience Plan — and I write code. I completed my Computer Engineering degree at ISCTE in June 2026, in evening classes alongside a full-time role as an officer in the Portuguese Navy.
 
-🌟 A bit about me:
+This profile holds my coursework and personal projects, mostly full-stack web and data work.
 
-    ⚓ Profession: Navy Officer in the Portuguese Navy, combining discipline and leadership with a passion for learning new technologies.
-    👨‍💻 Programming Enthusiast: From software development to web programming, I’m always seeking ways to apply my skills and learn more about the world of technology.
-    📚 Current Focus: Exploring the depths of computer science, web development, and new technologies as part of my academic journey.
+Languages — Python · Java · JavaScript · TypeScript · SQL · HTML/CSS
+Frameworks & tools — React · Django REST · OutSystems · MongoDB · MySQL · MQTT · Git
+Interests — algorithms, APIs, systems integration, cybersecurity
 
-💻 Technologies & Skills:
+Selected projects
 
-    Languages: Python, JavaScript, HTML, CSS, TS.
-    Frameworks: React (JS Library)
-    Tools: Git
-    Other Interests: Algorithms, APIs, Cybersecurity
+Dispensadora Online — full-stack web application (React, Django REST), built by a team of four running a Kanban board
+Marsamis — distributed data acquisition and monitoring system (MongoDB, MySQL, MQTT, Python, PHP, Android)
 
-📫 Let's connect!
-
-    Feel free to explore my repositories, and don’t hesitate to reach out!
-    You can reach me at: rodlxl2011@gmail.com
+📫 rmsdelaunay@gmail.com · linkedin.com/in/rodrigodelaunay-993206271
